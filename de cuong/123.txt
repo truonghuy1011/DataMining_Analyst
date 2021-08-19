@@ -1,0 +1,1 @@
+1.Chuẩn hóa 2.Chuẩn hóa Z-Score 3.Chuẩn hóa thập phân 4.Luật kết hợp 5.FP-Growth 6.K-Means
